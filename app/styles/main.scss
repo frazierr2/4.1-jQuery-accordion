@@ -1,0 +1,37 @@
+.list-container{
+  margin-top: 30px;
+  border: 6px solid #5E6065;
+  border-radius: 10px;
+  list-style: none;
+}
+
+ul{
+  width: 350px;
+  background-color: lightgrey;
+  margin: 0 auto;
+  padding: 0;
+}
+h3{
+  line-height: 50px;
+  padding-left: 20px;
+  font-size: 20px;
+  background-color: #5E6065;
+  color: white;
+  margin: 0;
+}
+h3:hover{
+  background-color: #8BB136;
+  color: #3E5706;
+}
+h3 > i{
+  padding-right: 15px;
+}
+.li-list{
+  background-color: #E5E5E5;
+  color: #797979;
+  font-size: 15px;
+  padding: 10px;
+}
+.accord-content{
+  display: none;
+}
